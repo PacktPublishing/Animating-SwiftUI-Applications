@@ -27,17 +27,9 @@ The code will look like the following:
 ```
 struct ContentView: View {
     var body: some View {
-        get {
-            return VStack {
-              Image(systemName: "globe")
-                  .imageScale(.large)
-                  .foregroundColor(.accentColor)
-              Text("Hello, world!")
-            }
-            .padding()
-       }
-    }
-} 
+        HStack {
+            Text(“Hello”)
+            Spacer()
 
 ```
 

@@ -67,6 +67,6 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 is a long-time iOS / macOS / watchOS instructor and creator of a SwiftUI course that takes beginners all the way to the expert level in a very short amount of time. You will start off by learning the Swift language, then the Xcode interface, and then move into building applications, all using Apple’s intuitive new design tools and framework: SwiftUI. Stephen has a unique way of presenting his material, with callouts, highlighting, and graphics, all to make it more understandable and easier to follow the path of the code. He has converted many of his bestselling iOS / macOS / watchOS / tvOS and other books into lecture-style courses - so, you are getting the best instruction available for all of Apple's platforms.
 
 ## Other books by the author
-* [SwiftUI - Build Amazing Apps - With Much Less Code [Video](https://www.packtpub.com/product/swiftui-build-amazing-apps-with-much-less-code-video/9781801078948)
+* [SwiftUI - Build Amazing Apps - With Much Less Code] [Video](https://www.packtpub.com/product/swiftui-build-amazing-apps-with-much-less-code-video/9781801078948)
 * [SwiftUI - The Complete iOS 16 Developers Resource and Bible [Video]](https://www.packtpub.com/product/swiftui-the-complete-ios-16-developers-resource-and-bible-video/9781801070676)
 * [SwiftUI Animations iOS 16 - Animate Anything with SwiftUI [Video]](https://www.packtpub.com/product/swiftui-animations-ios-16-animate-anything-with-swiftui-video/9781801077088)

@@ -62,3 +62,8 @@ is a long-time iOS / macOS / watchOS instructor and creator of a SwiftUI course 
 * [SwiftUI - Build Amazing Apps - With Much Less Code [Video]](https://www.packtpub.com/product/swiftui-build-amazing-apps-with-much-less-code-video/9781801078948)
 * [SwiftUI - The Complete iOS 16 Developers Resource and Bible [Video]](https://www.packtpub.com/product/swiftui-the-complete-ios-16-developers-resource-and-bible-video/9781801070676)
 * [SwiftUI Animations iOS 16 - Animate Anything with SwiftUI [Video]](https://www.packtpub.com/product/swiftui-animations-ios-16-animate-anything-with-swiftui-video/9781801077088)
+
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781803232669">https://packt.link/free-ebook/9781803232669 </a> </p>
